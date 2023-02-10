@@ -27,7 +27,7 @@ const Navbar = () => {
                 <Link to="/">홈</Link>
               </li>
               <li>
-                <Link to="/pages">페이지's</Link>
+                <Link to="/pages">제품</Link>
               </li>
               <li>
                 <Link to="/user">사용자 계정</Link>
